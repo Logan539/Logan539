@@ -1,11 +1,14 @@
-### Hi there 👋
+- 👋 Hi there, I'm Girish Gaikwad.
+- 🔭 I am a Software Engineer and have interest in Python, Django, SQL, Devops and PowerBi
+- 👯 I’m looking to collaborate on projects related to Python.
+- 📫 You can reach out to me via mail: girishgaikwad1997@gmail.com
 
 <!--
 **Logan539/Logan539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
