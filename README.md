@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Girish Gaikwad.
 - 🔭 I am a Software Engineer and have interest in Python, Django, SQL, Devops and PowerBi
-- 👯 I’m looking to collaborate on projects related to Python.
+- 👯 I’m looking to collaborate on projects related to Python, selenium with c#.
 - 📫 You can reach out to me via mail: girishgaikwad1997@gmail.com
 
 <!--
